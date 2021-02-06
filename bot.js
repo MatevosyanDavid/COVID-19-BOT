@@ -15,7 +15,7 @@ Enter the name of the country in English and get statistics.
 You can view the entire list of countries using the command /help`,
     Markup.keyboard([
       ['Armenia', 'Russia', 'France'],
-      ['USA', 'Italy', 'Belgium'],
+      ['US', 'Italy', 'Belgium'],
     ]).resize(),
   ),
 );
